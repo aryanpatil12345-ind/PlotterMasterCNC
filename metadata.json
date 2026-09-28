@@ -1,0 +1,7 @@
+{
+  "name": "PlotterCraft CNC - Arduino Uno Pen Plotter Studio",
+  "description": "Universal image-to-G-code vectorizer, real-time Web Serial CNC controller, and customized 3-stepper 1-servo Arduino Uno firmware generator for automated pen plotting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
